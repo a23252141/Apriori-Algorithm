@@ -1,2 +1,2 @@
 # Apriori-Algorithm
-Calculating the Subsequencce appearing times
+Calculating the Subsequence appearing times
